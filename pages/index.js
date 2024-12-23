@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Não tenho uma renata</h1>
+    return <h1>Solteira?</h1>
 }
 
 export default Home;
